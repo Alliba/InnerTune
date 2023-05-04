@@ -32,7 +32,7 @@
     <string name="pref_enable_proxy_title">Proxy einschalten</string>
     <string name="pref_proxy_type_title">Proxy-Typ</string>
     <string name="pref_proxy_url_title">Proxy-URL</string>
-    <string name="pref_restart_title">Neustart, damit er wirksam wird</string>
+    <string name="pref_restart_title">Neustart, damit es wirksam wird</string>
 
     <string name="pref_player_audio_title">Player und Audio</string>
     <string name="pref_audio_quality_title">Tonqualität</string>
